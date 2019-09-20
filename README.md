@@ -16,7 +16,7 @@ The dataset contains a total of 27,558 cell images with equal instances of paras
 <img src="cell.png" width="200">
 </p>
 
-Dat can be downloaded from: https://lhncbc.nlm.nih.gov/publication/pub9932
+Data can be downloaded from: https://lhncbc.nlm.nih.gov/publication/pub9932
 
 ### CNN Model Architecture
 
