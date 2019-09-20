@@ -13,7 +13,7 @@ Detecting malaria from segmented cell images using CNN in TensorFlow
 The dataset contains a total of 27,558 cell images with equal instances of parasitized and uninfected cells.
 
 <p align="center">
-<img src="cell.png">
+<img src="cell.png" width="200">
 </p>
 
 Dat can be downloaded from: https://lhncbc.nlm.nih.gov/publication/pub9932
